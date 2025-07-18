@@ -76,7 +76,7 @@
 ### 🖇 VPS Deployment
 - Clone repo: `git clone https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO && cd VIPNOBITAMUSIC_REPO`
 - Setup by: `bash setup`
-- Fill [Extra Variables](https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
+- Fill [Extra Variables](https://github.com/TANYA-SINGH-VNS-UP/VIPNOBITAMUSIC_REPO/V/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
 - Install tmux: `sudo apt install tmux && tmux`
 - Run the bot: `bash start`
 - To exit tmux session: Press `Ctrl+b` and then `d`
